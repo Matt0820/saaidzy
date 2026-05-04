@@ -19,4 +19,4 @@
 
 ---
 ## 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/mateus-oliveira) • [Email](mailto:dev.mateus.oliveira.vieira@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/mateus-oliveira-17566429b) • [Email](mailto:dev.mateus.oliveira.vieira@gmail.com)
