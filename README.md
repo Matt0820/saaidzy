@@ -21,4 +21,4 @@
 
 ## 🔗 Connect
 
-[LinkedIn](www.linkedin.com/in/mateus-oliveira-17566429b) • [Email](dev.mateus.oliveira.vieira@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Perfil-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/mateus-oliveira-17566429b) • [Email](dev.mateus.oliveira.vieira@gmail.com)
