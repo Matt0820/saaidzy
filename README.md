@@ -1,6 +1,6 @@
 # Olá mundo!
 ## Eu sou o Mateus 🍵
-[![GitHub Streak](https://streak-stats.demolab.com/?user=Matt0820)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=Matt0820&theme=tokyonight)](https://git.io/streak-stats)
 
 ![](https://komarev.com/ghpvc/?username=Matt0820)
 
