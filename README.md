@@ -1,30 +1,44 @@
-# Hello, I'm Mateus 👋
+# Olá mundo!
+## Eu sou o Mateus 🍵
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Matt0820)](https://git.io/streak-stats)
 
-💻 Full Stack Developer in progress
-🧠 Focused on understanding systems from end to end
-🔧 Interested in hardware and how machines actually work
+![](https://komarev.com/ghpvc/?username=Matt0820)
 
----
-## 🚀 Stack
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="50"/>
+--- 
+<div align="left" style="display: flex; align-items: center; gap: 20px;">
+
+  <img src="./21 Sem Título_20260422191818.png" width="175">
+
+  <ul>
+    <li>Desenvolvedor Full-Stack em andamento... ⏳</li>
+    <li>Front-end Jr. 🖌️</li>
+    <li>Web Designer ✨</li>
+    <li>Game-dev 🎮</li>
+    <li>Estudante de Engenharia de Software 🎓</li>
+  </ul>
+
+</div>
+
+### Minha stack:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img 
+      src="https://skillicons.dev/icons?i=python,java,spring,nextjs,react,nodejs,html,css,javascript,git,docker,blender,unity,gamemakerstudio,vscode" 
+    />
+  </a>
 </p>
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="50"/>
+
+---
+### Minhas Redes-Sociais
+<p align="center">
+  <a href="https://instagram.com/KKmatt_hh">
+    <img src="https://skillicons.dev/icons?i=instagram" />
+  </a>
+  <a href="www.linkedin.com/in/mateus-oliveira-17566429b">
+    <img src="https://skillicons.dev/icons?i=linkedin" />
+  </a>
+  <a href="https://github.com/Matt0820">
+    <img src="https://skillicons.dev/icons?i=github" />
+  </a>
 </p>
 
----
-
-## 📌 Current focus
-
-* Building full applications
-* Working with APIs
-* Improving code structure and organization
-
----
-## 🔗 Connect
-[LinkedIn](https://www.linkedin.com/in/mateus-oliveira-17566429b) • [Email](mailto:dev.mateus.oliveira.vieira@gmail.com)
