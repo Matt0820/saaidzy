@@ -56,13 +56,6 @@
 
 ## 📊 GitHub em movimento
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=Matt0820&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&icon_color=C77DFF&text_color=FFFFFF"/>
-
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matt0820&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=9D4EDD&text_color=FFFFFF"/>
-
-</div>
 
 <div align="center">
 
